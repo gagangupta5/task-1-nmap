@@ -1,0 +1,7 @@
+In this task, I practiced scanning my local network to check what devices have ports that can potentially be a security risk
+I used the Nmap software which is free for network scanning, then I determined what my local IP range was.
+After this, I performed a basic TCP SYN scan with Nmap to check what devices are active on my network and what ports are open.
+In addition, I stored the results so that I could look at the information later and tried out Wireshark to see if I could record the network packets during the scan.
+Post the scan, I made assumptions about the services running behind the active ports and the relevant vulnerabilities or security flaws.
+I kept a detailed record of all the steps in the form of commands and accompanying images and as part of the internship, I published all of this data in a single GitHub repository.
+This was my first attempt in network reconnaissance while learning the techniques for cybersecurity along with some really exciting fundamental principles!
